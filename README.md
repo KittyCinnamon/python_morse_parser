@@ -6,4 +6,5 @@ a morse code parser that:
 below in ther parser method there's the complete list of the available (for now) character
 
 When ENTER is pressed it'll parse and copy to clipboard the message
+
 When ESC is pressed it'll print the message and close the program
